@@ -1,5 +1,5 @@
 # PubMed-DOI-Redirect
-Automatically detects and redirects you from PubMed article pages to the corresponding articles on the publisher’s website using the DOI link. 
+A Tampermonkey/Greasemonkey script that automatically detects and redirects you from PubMed article pages to the corresponding articles on the publisher’s website using the DOI link. 
 
 ## Why? 
 Because PubMed metadata is usually inferior compared to publisher's websites when importing into the Zotero Connector, and I don't like having to click the DOI link every time I load a PubMed page.
@@ -11,9 +11,9 @@ A message is dispalyed when the PubMed page is about to redirect (when it finish
 
 
 ## Installation
-If you don't have it already, install the Tampermonkey extension for your browser from the official Tampermonkey website (https://www.tampermonkey.net)
+If you don't have it already, install the Tampermonkey or Greasemonkey extension for your browser from the official Tampermonkey website.
 
-Open the Tampermonkey dashboard and click on the “Create a new script” button.
+Open the dashboard and click on the “Create a new script” button.
 
 Copy and paste the “PubMed DOI Redirect.js” script into the editor.
 
