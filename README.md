@@ -5,7 +5,7 @@ Automatically detects and redirects you from PubMed article pages to the corresp
 Because PubMed metadata is usually inferior compared to publisher's websites when importing into the Zotero Connector, and I don't like having to click the DOI link every time I load a PubMed page.
 
 ## Screenshot
-A message is dispalyed as a reminder that this script is enabled and working.
+A message is dispalyed when the PubMed page is about to redirect (when it finishes loading) as a reminder that this script is enabled and working.
 
 ![image](https://github.com/huachuman/PubMed-DOI-Redirect/assets/125603964/a30d8ede-66cf-414f-a855-b6021e26929a)
 
