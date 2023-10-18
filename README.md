@@ -11,7 +11,7 @@ A message is dispalyed when the PubMed page is about to redirect (when it finish
 
 
 ## Installation
-If you don't have it already, install the Tampermonkey or Greasemonkey extension for your browser from the official Tampermonkey website.
+If you don't have it already, install the Tampermonkey or Greasemonkey extension for your browser from the official website.
 
 Open the dashboard and click on the “Create a new script” button.
 
