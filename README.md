@@ -15,7 +15,7 @@ If you don't have it already, install the Tampermonkey or Greasemonkey extension
 
 Open the dashboard and click on the “Create a new script” button.
 
-Copy and paste the “PubMed DOI Redirect.js” script into the editor.
+Copy the text from the .js script and paste the it into the editor.
 
 Click on “File” -> “Save” or press Ctrl+S to save the script.
 
