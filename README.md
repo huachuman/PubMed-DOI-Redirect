@@ -2,9 +2,7 @@
 A Tampermonkey/Greasemonkey script that automatically detects and redirects you from PubMed article pages to the corresponding articles on the publisher’s website using the DOI link. 
 
 ## Why? 
-Because PubMed metadata is usually inferior compared to publisher's websites when importing into the Zotero Connector. Especially useful for:
-- if you have custom PubMed RSS feeds
-- if you open multiple papers at once so you don't have to manually click through every tab, open the DOI link and wait.
+Because PubMed metadata is usually inferior compared to publisher's websites when importing into the Zotero Connector. Great if you open multiple papers at once so you don't have to manually click through every tab, open the DOI link and wait. Especially useful if you have custom PubMed RSS feeds.
 
 ## Screenshot
 A message is dispalyed when the PubMed page is about to redirect (when it finishes loading) as a reminder that this script is enabled and working.
