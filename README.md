@@ -1,5 +1,5 @@
 # PubMed-DOI-Redirect
-automatically detects and redirects you from PubMed article pages to the corresponding articles on the publisher’s website using the DOI link. 
+Automatically detects and redirects you from PubMed article pages to the corresponding articles on the publisher’s website using the DOI link. 
 
 Created because PubMed metadata is usually inferior compared to publisher's websites when importing into the Zotero Connector.
 
