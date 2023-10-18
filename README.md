@@ -3,6 +3,10 @@ automatically detects and redirects you from PubMed article pages to the corresp
 
 Created because PubMed metadata is usually inferior compared to publisher's websites when importing into the Zotero Connector.
 
+Screenshot:
+![image](https://github.com/huachuman/PubMed-DOI-Redirect/assets/125603964/a30d8ede-66cf-414f-a855-b6021e26929a)
+
+
 ## Installation
 Install the Tampermonkey extension for your browser from the official Tampermonkey website.
 Open the Tampermonkey dashboard and click on the “Create a new script” button.
